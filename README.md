@@ -33,4 +33,4 @@ El proyecto se centró en aplicar técnicas de limpieza de datos (manejo de nulo
 
 ---
 
-**[Enlace al Notebook de Colab](https://colab.research.google.com/drive/1Cw8a_44ns_oTje4RF2MJ1By_LF78v9M4?usp=sharing)**
+https://colab.research.google.com/drive/1Cw8a_44ns_oTje4RF2MJ1By_LF78v9M4?usp=sharing
